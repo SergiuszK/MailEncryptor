@@ -11,20 +11,16 @@ The developed application allows for increased transmission security when using 
 ## Main application view
 |![app_main](./images/app_main.png)|
 
-## DApplication operation - recording
+## Application operation - recording
 
-### Login to the application
-[](https://drive.google.com/file/d/1YDDJ0FadoI0mJ1y5R7P6dWqD8ntAYuGv/view?resourcekey)
 
-### Key generation
-[](https://drive.google.com/file/d/1-tX3xmb_n_yliP9Murx1fs_J7KPwuzcP/view?usp=sharing)
+[Login to the application](https://drive.google.com/file/d/1YDDJ0FadoI0mJ1y5R7P6dWqD8ntAYuGv/view?resourcekey)
 
-### Downloading the key
-[](https://drive.google.com/file/d/16cVW4PfdadaxuNkzZio2zJ-xZU5P4AXT/view?usp=sharing)
+[Key generation](https://drive.google.com/file/d/1-tX3xmb_n_yliP9Murx1fs_J7KPwuzcP/view?usp=sharing)
 
-### Sending files
-[](https://drive.google.com/file/d/19i2tWHOYHA68q4wKvdMdpfbOgo0x1yRH/view?usp=sharing)
+[Downloading the key](https://drive.google.com/file/d/16cVW4PfdadaxuNkzZio2zJ-xZU5P4AXT/view?usp=sharing)
 
-### Receiving files
-[](https://drive.google.com/file/d/1Hckt-vNII_-32SMzYHKHOvrWtYDOyuvs/view?usp=sharing)
+[Sending files](https://drive.google.com/file/d/19i2tWHOYHA68q4wKvdMdpfbOgo0x1yRH/view?usp=sharing)
+
+[Receiving files](https://drive.google.com/file/d/1Hckt-vNII_-32SMzYHKHOvrWtYDOyuvs/view?usp=sharing)
 
