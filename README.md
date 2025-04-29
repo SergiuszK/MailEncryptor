@@ -18,6 +18,8 @@ The developed application allows for increased transmission security when using 
 
 [Key generation](https://drive.google.com/file/d/1-tX3xmb_n_yliP9Murx1fs_J7KPwuzcP/view?usp=sharing)
 
+[Share the key](https://drive.google.com/file/d/1qOOPxIuIpMvTIWQ-ytIV8rlekWzHhW9N/view?usp=sharing)
+
 [Downloading the key](https://drive.google.com/file/d/16cVW4PfdadaxuNkzZio2zJ-xZU5P4AXT/view?usp=sharing)
 
 [Sending files](https://drive.google.com/file/d/19i2tWHOYHA68q4wKvdMdpfbOgo0x1yRH/view?usp=sharing)
